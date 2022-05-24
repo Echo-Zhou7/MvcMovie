@@ -8,6 +8,8 @@
         public string InterestLabel { get; set; }   
         public string Picture { get; set; }
 
+        public string Lable { get; set; }
+        public string oooo { get; set; }
 
     }
 }
